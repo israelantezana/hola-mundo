@@ -1,0 +1,22 @@
+{
+  "name": "hola",
+  "version": "1.0.0",
+  "description": "Hola mundo npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/israelantezana/hola-mundo.git"
+  },
+  "author": "Israel Antezana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/israelantezana/hola-mundo/issues"
+  },
+  "homepage": "https://github.com/israelantezana/hola-mundo#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.0"
+  }
+}
